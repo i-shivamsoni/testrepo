@@ -1,0 +1,8 @@
+{
+  "/etc/issue.net": "Ubuntu 22.04.4 LTS",
+  "commandLine": [
+    "/usr/bin/fdroid deploy"
+  ],
+  "startTimestamp": 1726467998000,
+  "subcommand": "deploy"
+}
